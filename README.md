@@ -82,6 +82,9 @@ Note that msal.js is built for ES5, therefore enabling support of Internet Explo
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.4/bluebird.min.js" class="pre"></script> 
 ```
 
+You can also include the script in your page by using the Microsoft CDN: 
+https://secure.aadcdn.microsoftonline-p.com/lib/0.1.5/js/msal.min.js
+
 ## Build and running tests
 
 If you want to build the library and run all the unit tests, you can do the following.
